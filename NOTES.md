@@ -1,0 +1,18 @@
+## STEPS
+- Initialize a turborepo 
+- Rename apps 
+- Add tailwind 
+- Add Data Base 
+- initialize a packages.json
+- initilize tsconfig
+- rename repo @repo/db
+- change the ts config.json
+- add prisma
+- db url 
+- migrate 
+- generate
+- export all from index.ts
+- chnage db/package.json ( add exports)
+- add db dependencies in user-app's package.json
+- npm install in root
+- use it
